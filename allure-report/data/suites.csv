@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 17 19:18:27 IST 2023","Fri Feb 17 19:18:36 IST 2023","9020","chromium","account.spec.ts","Account Page","","","Verify login and register is visible",""
